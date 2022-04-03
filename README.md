@@ -1,0 +1,4 @@
+- Hello, I’m @nmap-rocks
+-i am currently learning ethical hacking
+-and i am wanting to learn python
+-i like making friends because i currently dont have any
